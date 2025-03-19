@@ -45,4 +45,10 @@ This project presents an analysis of crime data from Los Angeles, focusing on cr
 
 This analysis provides critical insights into crime patterns within Los Angeles, identifying when and where crimes are most likely to occur. Understanding these patterns allows the LAPD to allocate resources more effectively and plan interventions based on time and location. The findings also highlight the need for targeted efforts to address specific crime types and areas with higher crime rates.
 
+## Further Analysis
+
+To enhance the insights gained from this analysis, additional exploration can be conducted by incorporating the 'Vict Descent' column data. This would allow for a deeper understanding of crime patterns across different demographic groups, providing a more comprehensive view of crime in Los Angeles.
+
+Additionally, creating an interactive dashboard could further improve the accessibility and usability of the analysis. By integrating the visualisations into a dynamic, user-friendly interface, stakeholders can explore the data more effectively, filter by different variables, and gain more actionable insights for decision-making.
+
 
